@@ -1,4 +1,4 @@
 # niteshproject
 This is my first Git Repository
 <br>
-author - NITESH
+author - NITESH bhatt
